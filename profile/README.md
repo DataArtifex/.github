@@ -1,4 +1,4 @@
-![Data Artifex](./dartfx_banner.png)
+![Data Artifex](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_banner.png)
 
 <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
 
@@ -19,7 +19,7 @@ This will broadly impact and modernize how we publish, discover, access, and uti
 
 A simple view of the workflow we aim to automate is illustrated below:
 
-![workflow](./dartfx_workflow.png)
+![workflow](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_workflow.png)
 
 To achieve this, we are building, in collaboration with data custodians, research communities,  developers, and key stakeholders, an open-source ecosystem powered by metadata standards, knowledge graphs, intelligent agents, and APIs.
 
@@ -57,12 +57,12 @@ Guided by the [FAIR principles](https://www.go-fair.org/fair-principles/) and th
 On the information technology side, we build upon [OpenAPI](https://www.openapis.org/) and [GraphQL](https://graphql.org/), [JSON Schema](), and [semantic web standards](https://www.w3.org/2001/sw/wiki/Main_Page).
 
 
-![standards](./dartfx_standards.png)
+![standards](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_standards.png)
 
 
 ## Acknowledgments
 The project is made possible with the technical and financial support of [Postman Open Technologies](https://www.postman.com/open-technologies).
-[![Postman](./postman.png)](https://www.postman.com/open-technologies)
+[![Postman](https://github.com/DataArtifex/.github/blob/main/profile/postman.png)](https://www.postman.com/open-technologies)
 
 ## Contact
 
