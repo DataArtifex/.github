@@ -21,7 +21,7 @@ A simple view of the workflow we aim to automate is illustrated below:
 
 ![workflow](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_workflow.png)
 
-To achieve this, we are building, in collaboration with data custodians, research communities,  developers, and key stakeholders, an open-source ecosystem powered by metadata standards, knowledge graphs, intelligent agents, and APIs.
+To achieve this, we are building, in collaboration with data custodians, research communities,  developers, and other stakeholders, a collection of open-source packages powered by metadata standards, knowledge graphs, intelligent agents, and APIs.
 
 ## Overview
 
