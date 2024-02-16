@@ -6,14 +6,14 @@
 
 *This project is in an early incubation phase.*
 
-Our vision:
+Our vision is to:
 
-- Fostering the creation of comprehensive data documentation accessible to humans and machines
-- Facilitating the rapid publication of data and associated metadata through APIs
-- Unleashing data-driven machine intelligence
-- Reducing data wrangling
-- Supporting the adoption of standards and best practices
-- Enabling natural language-driven data management
+- Foster the creation of comprehensive data documentation that is equally accessible to humans and machines
+- Facilite the rapid publication of data and associated metadata through APIs
+- Unleash data-driven machine intelligence
+- Reduce time spent data wrangling
+- Support the adoption of standards and best practices
+- Enable natural language-driven data management
 
 This will broadly impact and modernize how we publish, discover, access, and utilize data.
 
@@ -25,7 +25,7 @@ To achieve this, we are building, in collaboration with data custodians, researc
 
 ## Overview
 
-The way too common practice of publishing data as downloadable files or in traditional databases, with little documentation and no APIs, is a flawed approach. It leads to users spending the majority of their time data wrangling and machines struggling to understand or take intelligent action on the data. 
+The way too common practice of publishing data as downloadable files or in traditional databases, with little documentation and no APIs, is a flawed approach. It leads to users spending the majority of their time data wrangling and prevents machines from understanding or taking intelligent actions on the data. 
 
 We aim to address this by building open-source tools promoting *metadata/API-first* data management practices. 
 
@@ -62,7 +62,12 @@ On the information technology side, we build upon [OpenAPI](https://www.openapis
 
 ## Acknowledgments
 The project is made possible with the technical and financial support of [Postman Open Technologies](https://www.postman.com/open-technologies).
+
 [![Postman](https://github.com/DataArtifex/.github/blob/main/profile/postman.png)](https://www.postman.com/open-technologies)
+
+#### Technology partners
+[![MTNA Rich Data Services](https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png)](https://www.richdataservices.com)
+
 
 ## Contact
 
