@@ -6,7 +6,7 @@
 
 *This project is in an early incubation phase.*
 
-Our vision includes:
+Our vision:
 
 - Fostering the creation of comprehensive data documentation accessible to humans and machines
 - Facilitating the rapid publication of data and associated metadata through APIs
