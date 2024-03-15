@@ -65,8 +65,14 @@ The project is made possible with the technical and financial support of [Postma
 
 [![Postman](https://github.com/DataArtifex/.github/blob/main/profile/postman.png)](https://www.postman.com/open-technologies)
 
+
 #### Technology partners
-[![MTNA Rich Data Services](https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png)](https://www.richdataservices.com)
+<a href="https://www.dreamfactory.com" target="_blank">
+<img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" style="margin:5px 10px"/>
+</a>
+<a href="https://www.richdataservices.com" target="_blank">
+<img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" style="margin:5px 10px"/>
+</a>
 
 
 ## Contact
