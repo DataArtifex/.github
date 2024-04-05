@@ -65,6 +65,11 @@ The project is made possible with the technical and financial support of [Postma
 
 [![Postman](https://github.com/DataArtifex/.github/blob/main/profile/postman.png)](https://www.postman.com/open-technologies)
 
+#### Strategic partners
+<a href="https://www.ddialliance.org" target="_blank">
+<img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" style="margin:5px 10px"/>
+</a>
+
 
 #### Technology partners
 <a href="https://www.dreamfactory.com" target="_blank">
