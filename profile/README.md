@@ -54,7 +54,7 @@ Standards and best practices are central to our strategy. We are actively involv
 
 Guided by the [FAIR principles](https://www.go-fair.org/fair-principles/) and the W3C [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/), our tools make use of specifications such as the [Data Documentation Initiative (DDI)](https://ddialliance.org/), [schema.org](https://schema.org/), [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/), [Research Object Crates (RO-Crates)](https://www.researchobject.org/ro-crate/), and [Open Digital Rights Language (ODRL)](https://www.w3.org/TR/odrl-model/). 
 
-On the information technology side, we build upon [OpenAPI](https://www.openapis.org/) and [GraphQL](https://graphql.org/), [JSON Schema](), and [semantic web standards](https://www.w3.org/2001/sw/wiki/Main_Page).
+On the information technology side, we build upon [LinkML](https://linkml.io/), [OpenAPI](https://www.openapis.org/),[GraphQL](https://graphql.org/), [JSON Schema](https://json-schema.org/), and [semantic web standards](https://www.w3.org/2001/sw/wiki/Main_Page).
 
 
 ![standards](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_standards.png)
