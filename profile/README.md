@@ -76,7 +76,9 @@ On the information technology side, we build upon [JSON Schema](https://json-sch
 <a href="https://www.richdataservices.com" target="_blank">
 <img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" style="margin:5px 10px"/>
 </a>
-[![Postman](https://github.com/DataArtifex/.github/blob/main/profile/postman.png)](https://www.postman.com/open-technologies)
+<a href="https://www.postman.com" target="_blank">
+<img src="https://github.com/DataArtifex/.github/blob/main/profile/postman.png" style="margin:5px 10px"/>
+</a>
 
 
 ## Contact
