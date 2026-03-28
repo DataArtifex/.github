@@ -3,10 +3,9 @@
 <p>
 <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
 </p>
+</div>
 
 ### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
-
----
 
 **Data Artifex** is an open-source initiative building the fundamental infrastructure to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
 
