@@ -40,4 +40,4 @@ We can assist your organization with:
 *We are looking for our first sponsors! Join us and be listed here.*
 
 ---
-[**Back to Profile**](README.md)
+[**Back to Home**](https://github.com/DataArtifex)

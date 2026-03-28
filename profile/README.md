@@ -1,11 +1,13 @@
 <div align="center">
-![Data Artifex](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_banner.png)
-<p>
-<span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
-</p>
+  <img src="https://github.com/DataArtifex/.github/raw/main/profile/dartfx_banner.png" alt="Data Artifex Banner" width="100%">
+  <p>
+    <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
+  </p>
+
+  ### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
 </div>
 
-### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
+---
 
 **Data Artifex** is an open-source initiative building the fundamental infrastructure to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
 
@@ -78,11 +80,11 @@ We build on the shoulders of giants. Our strategy leverages:
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="120"><a href="https://www.codata.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/codata.png" height="50"/></a></td>
-    <td align="center" width="120"><a href="https://www.ddialliance.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" height="50"/></a></td>
-    <td align="center" width="120"><a href="https://www.dathere.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dathere.png" height="50"/></a></td>
-    <td align="center" width="120"><a href="https://www.richdataservices.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" height="50"/></a></td>
-    <td align="center" width="120"><a href="https://www.dreamfactory.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.codata.org" target="_blank"><img src="https://github.com/DataArtifex/.github/raw/main/profile/codata.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.ddialliance.org" target="_blank"><img src="https://github.com/DataArtifex/.github/raw/main/profile/ddialliance.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.dathere.com" target="_blank"><img src="https://github.com/DataArtifex/.github/raw/main/profile/dathere.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.richdataservices.com" target="_blank"><img src="https://github.com/DataArtifex/.github/raw/main/profile/mtna_rds.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.dreamfactory.com" target="_blank"><img src="https://github.com/DataArtifex/.github/raw/main/profile/dreamfactory.png" height="50"/></a></td>
   </tr>
 </table>
 </div>
