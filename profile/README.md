@@ -17,6 +17,8 @@
 
 *This project is currently in an early incubation phase.*
 
+
+
 ## Our Vision 🚀
 
 We aim to modernize the way binary and text data are published, discovered, and utilized across the globe:
@@ -34,29 +36,29 @@ Collaborating with leading organizations, research communities, and data custodi
 
 ### Marketplace of Tools
 
-| Repository | Status | Description |
-|---|---|---|
-| **Release Candidate / MVP** | | *Relatively stable* |
-| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | MVP | Core engine for RDF and Semantic Metadata |
-| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) | MVP | Support and utilities for DDI-CDI and DDI-Codebook |
-| [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) | MVP | FAIR metadata proxy APIs |
-| [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | RC | Universal Numeric Fingerprint (UNF) for data hashing |
-| [**postman-api**](https://github.com/DataArtifex/postman-api) | MVP | Python client for Postman API integration |
-| **Beta / Prototypes** | | *Functional for early adopters* |
-| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Beta | Dataverse catalog harvesting |
-| [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Beta | Support and utilities for DCAT |
-| [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) | Beta | Integration with MTNA Rich Data Services platform |
-| [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | Beta | NADA (World Bank) catalogs harvester |
-| [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Beta | Postman FAIR collection generation and utilities |
-| [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Beta | Integration with Socrata (Data Insights) platform |
-| [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Beta | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data  |
-| **Alpha / Experimental** | | *Research and development* |
-| [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) | Prototype | Command line shell for Data Artifex tools and packages |
-| [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) | Alpha | Collection of utilities and shared resources |
-| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | Alpha | FAIR data workspace management  |
-| [**fair-data-machine**](https://github.com/DataArtifex/fair-data-machine) | Alpha | A Docker image for data FAIRification tools and software |
-| [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) | Alpha | Integration with datHere QSV data wrangling toolkit |
-| [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Alpha | Integration with US Census Bureau API and data products |
+| Repository | Description |
+|---|---|
+| **Release Candidate / MVP** | *Relatively stable* |
+| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | Core engine for RDF and Semantic Metadata |
+| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) | Support and utilities for DDI-CDI and DDI-Codebook |
+| [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) | FAIR metadata proxy APIs |
+| [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | Universal Numeric Fingerprint (UNF) for data hashing |
+| [**postman-api**](https://github.com/DataArtifex/postman-api) | Python client for Postman API integration |
+| **Beta / Prototypes** | *Functional for early adopters* |
+| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Dataverse catalog harvesting |
+| [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Support and utilities for DCAT |
+| [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) | Integration with MTNA Rich Data Services platform |
+| [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | NADA (World Bank) catalogs harvester |
+| [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Postman FAIR collection generation and utilities |
+| [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Integration with Socrata (Data Insights) platform |
+| [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data  |
+| **Alpha / Experimental** | *Research and development* |
+| [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) | Command line shell for Data Artifex tools and packages |
+| [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) | Collection of utilities and shared resources |
+| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | FAIR data workspace management  |
+| [**fair-data-machine**](https://github.com/DataArtifex/fair-data-machine) | A Docker image for data FAIRification tools and software |
+| [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) | Integration with datHere QSV data wrangling toolkit |
+| [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Integration with US Census Bureau API and data products |
 
 ## High-Value Data (HVD) 🌍
 
@@ -75,7 +77,7 @@ We build on the shoulders of giants. Our strategy leverages:
 
 This project is open-source and looking for sponsors! Your support helps us maintain infrastructure, improve documentation, and accelerate development.
 
-👉 [**Sponsor Data Artifex on GitHub**](https://github.com/sponsors/DataArtifex) to support our mission.
+👉 **View our [Sponsorship Page](SPONSORS.md)** or [Sponsor us on GitHub](https://github.com/sponsors/DataArtifex).
 
 ## Strategic Partners 🤝
 
