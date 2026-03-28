@@ -1,86 +1,92 @@
 ![Data Artifex](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_banner.png)
 
+<div align="center">
+<p>
 <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
+</p>
 
-**Data Artifex** is a Python-based, open-source ecosystem that elevates data into API-powered, machine-actionable digital knowledge.
+### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
 
-*This project is in an early incubation phase.*
+[![GitHub license](https://img.shields.io/github/license/DataArtifex/.github)](https://github.com/DataArtifex/.github/blob/main/LICENSE)
+[![GitHub sponsors](https://img.shields.io/github/sponsors/DataArtifex)](https://github.com/sponsors/DataArtifex)
+</div>
 
-Our vision is to:
+---
 
-- Foster the creation of comprehensive data documentation that is equally accessible to humans and machines
-- Facilitate the rapid publication of data and associated metadata through APIs
-- Unleash data-driven machine intelligence
-- Reduce time spent on data wrangling
-- Support the adoption of standards and best practices
-- Enable natural language-driven data management
+**Data Artifex** is a Python-based, open-source ecosystem that transforms raw data into intelligent, API-powered digital assets. We bridge the gap between static files and machine-driven discovery.
 
-This will have a broad impact and modernize how we publish, discover, access, and utilize data.
+*This project is currently in an early incubation phase.*
 
-To achieve this, we are building, in collaboration with leading organizations, data custodians, research communities,  developers, and other stakeholders, a collection of open-source packages powered by metadata standards, knowledge graphs, intelligent agents, and APIs.
+## Our Vision 🚀
 
-## Overview
+We aim to modernize the way binary and text data are published, discovered, and utilized across the globe:
 
-The way too common practice of publishing data as downloadable files or in traditional databases, with little documentation and no APIs, is a flawed approach. It leads to users spending the majority of their time data wrangling and prevents machines from understanding or taking intelligent actions on the data. 
+- **AI-Ready Documentation**: Foster metadata that is equally accessible to humans and machines.
+- **API-First Publishing**: Rapidly expose data and catalogs through scalable APIs.
+- **Machine Intelligence**: Unlock automated data discovery and intelligent processing.
+- **Efficiency**: Dramatically reduce the time spent on manual data wrangling.
+- **Standardized Power**: Build on global standards like DDI, DCAT, and FAIR principles.
+- **Natural Interface**: Enable natural language-driven data management.
 
-We aim to address this by building open-source tools promoting *metadata/API-first* data management practices. 
+## The Ecosystem 🛠️
 
-In such an environment:
+Collaborating with leading organizations, research communities, and data custodians, we are building a collection of specialized Python packages powered by metadata standards, knowledge graphs, and intelligent agents.
 
-- Metadata (digital documentation) always exists and surrounds the data, unlocking machine intelligence
-- Users interact with the data through intuitive interfaces or by using natural language
-- Applications, developers, and data scientists interact with APIs
-- The data and metadata are managed in the back-end by agents.
+### Marketplace of Tools
 
-We're looking towards a future where managing data is as easy as talking to a computer in everyday language. This means data custodians and non-technical users won't have to worry about the complexities of implementing APIs and metadata challenges.
+| Repository | Status | Description |
+|---|---|---|
+| **Release Candidate / MVP** | | *Relatively stable* |
+| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | MVP | Core engine for RDF and Semantic Metadata |
+| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) | MVP | Support and utilities for DDI-CDI and DDI-Codebook |
+| [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) | MVP | FAIR metadata proxy APIs |
+| [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | RC | Universal Numeric Fingerprint (UNF) for data hashing |
+| [**postman-api**](https://github.com/DataArtifex/postman-api) | MVP | Python client for Postman API integration |
+| **Beta / Prototypes** | | *Functional for early adopters* |
+| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Beta | Dataverse catalog harvesting |
+| [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Beta | Support and utilities for DCAT |
+| [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) | Beta | Integration with MTNA Rich Data Services platform |
+| [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | Beta | NADA (World Bank) catalogs harvester |
+| [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Beta | Postman FAIR collection generation and utilities |
+| [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Beta | Integration with Socrata (Data Insights) platform |
+| [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Beta | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data  |
+| **Alpha / Experimental** | | *Research and development* |
+| [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) | Prototype | Command line shell for Data Artifex tools and packages |
+| [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) | Alpha | Collection of utilities and shared resources |
+| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | Alpha | FAIR data workspace management  |
+| [**fair-data-machine**](https://github.com/DataArtifex/fair-data-machine) | Alpha | A Docker image for data FAIRification tools and software |
+| [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) | Alpha | Integration with datHere QSV data wrangling toolkit |
+| [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Alpha | Integration with US Census Bureau API and data products |
 
-## High-Value Data
+## High-Value Data (HVD) 🌍
 
-Note that our focus is on High-Value Datasets (HVDs), which have substantial potential to benefit society, contribute to humanitarian efforts, and address global challenges (socio-economic, health, environment, AI, etc.). The complexities surrounding such data increase the importance and need for user and machine-friendly data and APIs. This approach does not preclude using the tools with other kinds of datasets.
+Our focus is on datasets that drive global impact. From socio-economic indicators to environmental health, we believe that user-friendly APIs are essential for humanitarian efforts and scientific progress.
 
-## Implementation strategy
+## Global Standards 📏
 
-Our technical approach is not to reinvent the wheel but to fill gaps and provide new ways to work, essentially enabling best practices advocated by data custodians and research communities and empowering computer systems with data intelligence.
+We build on the shoulders of giants. Our strategy leverages:
 
-We envision our open-source ecosystem as a collection of small, specialized tools that can be used in isolation but, most importantly, can come together in a well-orchestrated manner to automate the data to API workflow and facilitate the creation and maintenance of metadata.
+- **[FAIR Principles](https://www.go-fair.org)** (Findable, Accessible, Interoperable, Reusable)
+- **CODATA** [Cross-Domain Integration Framework](https://book.cdif.org)
+- **Standards**: DDI, DCAT, MLCommons Croissant, Schema.org, RO-Crate, ODRL.
+- **Tech**: JSON Schema, Semantic Web, Python 3.12+.
 
-These will work hand in hand with existing data technologies, such as databases and API frameworks, as well as harness recent developments in artificial intelligence.
+## Supporting Data Artifex ❤️
 
-## Standards
+This project is open-source and looking for sponsors! Your support helps us maintain infrastructure, improve documentation, and accelerate development.
 
-Standards and best practices are central to our strategy. We are actively involved in the CODATA [Cross-Domain Interoperability Framework](https://worldfair-project.eu/cross-domain-interoperability-framework/), focusing on creating guidelines for domain-agnostic standards that support the implementation of interoperability and the reusability of FAIR data.
+👉 [**Sponsor Data Artifex on GitHub**](https://github.com/sponsors/DataArtifex) to support our mission.
 
-Guided by the [FAIR principles](https://www.go-fair.org/fair-principles/) , the CODATA [Cross-Domain Integration Framework](https://cdif.codata.org]), and the  W3C [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/), our tools utilize specifications such as the [Data Documentation Initiative (DDI)](https://ddialliance.org/), [MLCommons Croissant](https://mlcommons.org/working-groups/data/croissant/),  [schema.org](https://schema.org/), [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat-3/), [Research Object Crates (RO-Crates)](https://www.researchobject.org/ro-crate/), and [Open Digital Rights Language (ODRL)](https://www.w3.org/TR/odrl-model/). 
+## Strategic Partners 🤝
 
-On the information technology side, we build upon [JSON Schema](https://json-schema.org/), and [semantic web standards](https://www.w3.org/2001/sw/wiki/Main_Page).
-
-
-![standards](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_standards.png)
-
-## Acknowledgments
-
-#### Strategic partners
-
-<a href="https://www.codata.org" target="_blank">
-<img src="https://github.com/DataArtifex/.github/blob/main/profile/codata.png" style="margin:5px 10px"/>
-</a>
-
-<a href="https://www.ddialliance.org" target="_blank">
-<img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" style="margin:5px 10px"/>
-</a>
-
-#### Technology partners
-<a href="https://www.dreamfactory.com" target="_blank">
-<img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" style="margin:5px 10px"/>
-</a>
-<a href="https://www.richdataservices.com" target="_blank">
-<img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" style="margin:5px 10px"/>
-</a>
-<a href="https://www.postman.com" target="_blank">
-<img src="https://github.com/DataArtifex/.github/blob/main/profile/postman.png" style="margin:5px 10px"/>
-</a>
-
+<div align="center">
+<a href="https://www.codata.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/codata.png" height="50" style="margin:10px"/></a>
+<a href="https://www.ddialliance.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" height="50" style="margin:10px"/></a>
+<a href="https://www.dathere.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dathere.png" height="50" style="margin:10px"/></a>
+<a href="https://www.richdataservices.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" height="50" style="margin:10px"/></a>
+<a href="https://www.dreamfactory.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" height="50" style="margin:10px"/></a>
+</div>
 
 ## Contact
 
-For more information, contact [Pascal Heus](https://linkedin.com/in/pascal) (pascal@codata.org).
+For collaboration and inquiries, contact [Pascal Heus](https://www.pascalheus.com)
