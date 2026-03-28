@@ -1,22 +1,23 @@
-![Data Artifex](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_banner.png)
-
 <div align="center">
+![Data Artifex](https://github.com/DataArtifex/.github/blob/main/profile/dartfx_banner.png)
 <p>
 <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
 </p>
 
 ### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
 
-[![GitHub license](https://img.shields.io/github/license/DataArtifex/.github)](https://github.com/DataArtifex/.github/blob/main/LICENSE)
-[![GitHub sponsors](https://img.shields.io/github/sponsors/DataArtifex)](https://github.com/sponsors/DataArtifex)
-</div>
-
 ---
 
-**Data Artifex** is a Python-based, open-source ecosystem that transforms raw data into intelligent, API-powered digital assets. We bridge the gap between static files and machine-driven discovery.
+**Data Artifex** is an open-source initiative building the fundamental infrastructure to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
 
 *This project is currently in an early incubation phase.*
 
+
+## Supporting Data Artifex ❤️
+
+This project is open-source and looking for sponsors! Your support helps us maintain infrastructure, improve documentation, and accelerate development.
+
+👉 **View our [Sponsorship Page](SPONSORS.md)** or [Sponsor us on GitHub](https://github.com/sponsors/DataArtifex).
 
 
 ## Our Vision 🚀
@@ -73,20 +74,18 @@ We build on the shoulders of giants. Our strategy leverages:
 - **Standards**: DDI, DCAT, MLCommons Croissant, Schema.org, RO-Crate, ODRL.
 - **Tech**: JSON Schema, Semantic Web, Python 3.12+.
 
-## Supporting Data Artifex ❤️
-
-This project is open-source and looking for sponsors! Your support helps us maintain infrastructure, improve documentation, and accelerate development.
-
-👉 **View our [Sponsorship Page](SPONSORS.md)** or [Sponsor us on GitHub](https://github.com/sponsors/DataArtifex).
-
 ## Strategic Partners 🤝
 
 <div align="center">
-<a href="https://www.codata.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/codata.png" height="50" style="margin:10px"/></a>
-<a href="https://www.ddialliance.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" height="50" style="margin:10px"/></a>
-<a href="https://www.dathere.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dathere.png" height="50" style="margin:10px"/></a>
-<a href="https://www.richdataservices.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" height="50" style="margin:10px"/></a>
-<a href="https://www.dreamfactory.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" height="50" style="margin:10px"/></a>
+<table>
+  <tr>
+    <td align="center" width="120"><a href="https://www.codata.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/codata.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.ddialliance.org" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/ddialliance.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.dathere.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dathere.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.richdataservices.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/mtna_rds.png" height="50"/></a></td>
+    <td align="center" width="120"><a href="https://www.dreamfactory.com" target="_blank"><img src="https://github.com/DataArtifex/.github/blob/main/profile/dreamfactory.png" height="50"/></a></td>
+  </tr>
+</table>
 </div>
 
 ## Contact
