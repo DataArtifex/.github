@@ -4,10 +4,14 @@
     <span style="color:#a0a0a0">*/ˈar.ti.feks/, [ˈärt̪ɪfɛks̠] 1. artist, actor 2. author, maker 3. craftsman 4. master of an art 5. mastermind*</span>
   </p>
 
-  ### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
+  ### Making High-Value Data Accessible, Interoperable, and Machine-Actionable.
 </div>
 
-**Data Artifex** is an open-source initiative building the tools to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
+**Data is the backbone of society — yet most of it remains locked, misunderstood, and out of reach.**
+
+Modern data publishing is flawed. Datasets often ship without context, sparse documentation is made for humans, and machine-actionable metadata is lacking. The outcome: researchers, developers, policymakers, and AI systems all stall at the same bottleneck — struggling to find or interpret the data before they can utilize it.
+
+**Data Artifex** is an open-source initiative solving this at the root. We build the metadata- and API-driven tools needed to elevate High-Value Datasets into intelligent, machine-actionable digital assets, bridging the gap between static data and machine-driven intelligence. By enabling a global ecosystem of self-documenting, FAIR-compliant data products designed for the era of machine intelligence, we make data truly self-describing. When data can explain itself, humans stop wrangling and machines start reasoning—accelerating both scientific discovery and humanitarian impact.
 
 *This project is currently in an early incubation phase.*
 
