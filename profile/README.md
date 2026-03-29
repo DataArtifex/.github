@@ -7,12 +7,9 @@
   ### Elevating High-Value Data into API-Powered, Machine-Actionable Knowledge.
 </div>
 
----
-
-**Data Artifex** is an open-source initiative building the fundamental infrastructure to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
+**Data Artifex** is an open-source initiative building the tools to elevate the world's high-value data into intelligent, machine-actionable digital knowledge. We bridge the gap between static datasets and AI-driven intelligence, enabling a global ecosystem of self-documenting, FAIR-compliant data products that accelerate scientific discovery and humanitarian impact.
 
 *This project is currently in an early incubation phase.*
-
 
 ## Supporting Data Artifex ❤️
 
