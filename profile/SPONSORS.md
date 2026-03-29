@@ -33,6 +33,8 @@ We can assist your organization with:
 - **AI Readiness**: Optimizing data and metadata structures for use with Large Language Models (LLMs) and machine learning pipelines, ensuring your data is not just readable, but truly understandable by AI agents.
 - **Privacy and disclosure control**: Implementing modern techniques for data anonymization and access control to ensure sharing is compliant and secure.
 
+Note that this requires is to get access to your data and documentation files.
+
 ---
 
 ## ❤️ Our Sponsors
