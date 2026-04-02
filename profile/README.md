@@ -90,6 +90,6 @@ We build on the shoulders of giants. Our strategy leverages:
 </table>
 </div>
 
-## Contact
+## About
 
-For collaboration and inquiries, contact [Pascal Heus](https://www.pascalheus.com)
+This project is led by [Pascal Heus (@kulnor)](https://github.com/kulnor) and a proactive team of agents and contributors. Pascal, a dedicated and passionate data engineer and information technologist, is driven by a vision to improve the usability of high-value data to support research, scientific innovation, and policymaking, thereby contributing to the greater good of society and a sustainable future. We warmly welcome both human and digital collaborators.
