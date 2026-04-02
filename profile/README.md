@@ -63,9 +63,11 @@ Collaborating with leading organizations, research communities, and data custodi
 | [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) | Integration with datHere QSV data wrangling toolkit |
 | [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Integration with US Census Bureau API and data products |
 
-## High-Value Data (HVD) 🌍
+## High-Value Data 🌍
 
-Our focus is on datasets that drive global impact. From socio-economic indicators to environmental health, we believe that user-friendly APIs are essential for humanitarian efforts and scientific progress.
+Our focus is on datasets that drive global impact. From socio-economic indicators to environmental health, we believe that user-friendly APIs are essential for humanitarian efforts, scientific progress, and policy making.
+
+Data Artifex directly supports the [**High-Value Data Network**](https://www.highvaluedata.net) — our sister project and community platform advancing the discovery, access, and use of datasets that matter most.
 
 ## Global Standards 📏
 
@@ -74,7 +76,7 @@ We build on the shoulders of giants. Our strategy leverages:
 - **[FAIR Principles](https://www.go-fair.org)** (Findable, Accessible, Interoperable, Reusable)
 - **CODATA** [Cross-Domain Integration Framework](https://book.cdif.org)
 - **Standards**: DDI, DCAT, MLCommons Croissant, Schema.org, RO-Crate, ODRL.
-- **Tech**: JSON Schema, Semantic Web, Python 3.12+.
+- **Tech**: JSON Schema, Semantic Web, Python, APIs.
 
 ## Strategic Partners 🤝
 
