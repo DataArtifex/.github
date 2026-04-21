@@ -48,7 +48,8 @@ Collaborating with leading organizations, research communities, and data custodi
 | [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | Universal Numeric Fingerprint (UNF) for data hashing |
 | [**postman-api**](https://github.com/DataArtifex/postman-api) | Python client for Postman API integration |
 | **Beta / Prototypes** | *Functional for early adopters* |
-| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Dataverse catalog harvesting |
+| [**ckan-toolkit**](https://github.com/DataArtifex/ckan-toolkit) | CKAN catalog harvesting and exploration |
+| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Dataverse catalog harvesting and exploration |
 | [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Support and utilities for DCAT |
 | [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) | Integration with MTNA Rich Data Services platform |
 | [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | NADA (World Bank) catalogs harvester |

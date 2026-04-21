@@ -41,5 +41,42 @@ Note that this requires is to get access to your data and documentation files.
 
 *We are looking for our first sponsors! Join us and be listed here.*
 
+## Sponsorship Service Terms (applies to service-based tiers)
+
+Service-based benefits (consulting, advisory, FAIRification, custom development, training) are provided on a **best-efforts** basis and are governed by the terms below.
+
+### 1) How to request services
+- Request via email
+- Please include: goal, context, timeline, and any links to relevant repos/docs.
+
+### 2) What’s included
+- Services are limited to the **hours / deliverables stated in the tier description** (or otherwise confirmed in writing).
+- Unless explicitly stated, **unused time does not roll over** month-to-month.
+
+### 3) Response times & scheduling
+- Typical response time: 2-3 business days
+- Calls/workshops require scheduling and depend on availability and time zones.
+
+### 4) Data access & confidentiality
+- Some work requires access to datasets, documentation, or systems.
+- Please provide **least-privilege, time-limited access** where possible.
+- We can sign an NDA on request.
+- Do not send highly sensitive data (e.g., credentials, regulated personal data) unless we have explicitly agreed on handling.
+
+### 5) Deliverables, IP, and licensing
+- Unless otherwise agreed in writing:
+  - Written guidance is provided for your internal use.
+  - Any code contributions will be delivered via GitHub and licensed under MIT (unless agreed otherwise).
+
+### 6) No warranties; no legal advice
+- We do not guarantee specific outcomes (performance, compliance, certification, security posture, etc.).
+- Information provided is not legal, tax, or regulatory advice.
+
+### 7) Cancellations & refunds
+- If you cancel, you will not be charged for future periods.
+- If we cannot deliver the tier’s stated service benefit within a reasonable time, contact us and we will work with you on a make-good (e.g., reschedule, partial refund, or equivalent value), subject to platform limitations.
+
+
+
 ---
 [**Back to Home**](https://github.com/DataArtifex)
