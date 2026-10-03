@@ -9,17 +9,17 @@
 
 **Data is the backbone of society — yet most of it remains locked, misunderstood, and out of reach.**
 
-Modern data publishing is flawed. Datasets often ship without context, sparse documentation is made for humans, and machine-actionable metadata is lacking. The outcome: researchers, developers, policymakers, and AI systems all stall at the same bottleneck — struggling to find or interpret the data before they can utilize it.
+Modern data publishing is flawed. Datasets often ship without context, documentation is sparse and written for humans, and machine-actionable metadata is lacking. The outcome: researchers, developers, policymakers, and AI systems all stall at the same bottleneck — struggling to find or interpret the data before they can use it.
 
-**Data Artifex** is an open-source initiative solving this at the root. We build the metadata- and API-driven tools needed to elevate High-Value Datasets into intelligent, machine-actionable digital assets, bridging the gap between static data and machine-driven intelligence. By enabling a global ecosystem of self-documenting, FAIR-compliant data products designed for the era of machine intelligence, we make data truly self-describing. When data can explain itself, humans stop wrangling and machines start reasoning—accelerating both scientific discovery and humanitarian impact.
+**Data Artifex** is an open-source initiative that addresses this at the root. We build metadata- and API-driven tools that elevate High-Value Datasets into intelligent, machine-actionable digital assets, bridging the gap between static data and machine-driven intelligence. By enabling a global ecosystem of self-documenting, FAIR-compliant data products for the era of machine intelligence, we make data truly self-describing. When data can explain itself, humans stop wrangling, and machines start reasoning—accelerating both scientific discovery and humanitarian impact.
 
-*This project is currently in an early incubation phase.*
+*This project is currently in early incubation.*
 
 ## Supporting Data Artifex ❤️
 
 This project is open-source and looking for sponsors! Your support helps us maintain infrastructure, improve documentation, and accelerate development.
 
-👉 **View our [Sponsorship Page](SPONSORS.md)** or [Sponsor us on GitHub](https://github.com/sponsors/DataArtifex).
+👉 **View our [Sponsorship Page](SPONSORS.md)** or [sponsor us on GitHub](https://github.com/sponsors/DataArtifex).
 
 
 ## Our Vision 🚀
@@ -42,31 +42,38 @@ Collaborating with leading organizations, research communities, and data custodi
 | Repository | Description |
 |---|---|
 | **Release Candidate / MVP** | *Relatively stable* |
-| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | Core engine for RDF and Semantic Metadata |
-| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) | Support and utilities for DDI-CDI and DDI-Codebook |
-| [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) | FAIR metadata proxy APIs |
+| [**dartfx-fairdataschema**](https://github.com/DataArtifex/dartfx-fairdataschema) ⚡ | Working with FAIR Data JSON Schemas and annotations |
+| [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) ⚡ | FAIR metadata proxy APIs |
+| [**dartfx-n8n**](https://github.com/DataArtifex/dartfx-n8n) ⚡ | n8n community nodes for FAIR data pipelines and automation |
 | [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | Universal Numeric Fingerprint (UNF) for data hashing |
+| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) ⚡ | Support and utilities for DDI-CDI and DDI-Codebook |
 | [**postman-api**](https://github.com/DataArtifex/postman-api) | Python client for Postman API integration |
+| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | Core engine for RDF and Semantic Metadata |
 | **Beta / Prototypes** | *Functional for early adopters* |
 | [**ckan-toolkit**](https://github.com/DataArtifex/ckan-toolkit) | CKAN catalog harvesting and exploration |
-| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) | Dataverse catalog harvesting and exploration |
+| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) ⚡ | Dataverse catalog harvesting and exploration |
 | [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Support and utilities for DCAT |
-| [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) | Integration with MTNA Rich Data Services platform |
+| [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) ⚡ | Integration with MTNA Rich Data Services platform |
 | [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | NADA (World Bank) catalogs harvester |
 | [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Postman FAIR collection generation and utilities |
+| [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) ⚡ | Integration with datHere QSV data wrangling toolkit |
 | [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Integration with Socrata (Data Insights) platform |
-| [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data  |
+| [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data |
 | **Alpha / Experimental** | *Research and development* |
 | [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) | Command line shell for Data Artifex tools and packages |
+| [**dartfx-sdc**](https://github.com/DataArtifex/dartfx-sdc) ⚡ | Statistical Disclosure Control (SDC) and privacy risk assessment |
+| [**dartfx-semanticdt**](https://github.com/DataArtifex/dartfx-semanticdt) | Semantic Data Types (SDT) modeling, validation, and documentation |
+| [**dartfx-synth**](https://github.com/DataArtifex/dartfx-synth) ⚡ | Synthetic data generation and privacy-preserving data synthesis |
 | [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) | Collection of utilities and shared resources |
-| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | FAIR data workspace management  |
+| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | FAIR data workspace management |
 | [**fair-data-machine**](https://github.com/DataArtifex/fair-data-machine) | A Docker image for data FAIRification tools and software |
-| [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) | Integration with datHere QSV data wrangling toolkit |
 | [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Integration with US Census Bureau API and data products |
+
+<small>*(⚡ indicates active development / updated in the last 3 months)*</small>
 
 ## High-Value Data 🌍
 
-Our focus is on datasets that drive global impact. From socio-economic indicators to environmental health, we believe that user-friendly APIs are essential for humanitarian efforts, scientific progress, and policy making.
+Our focus is on datasets that drive global impact. From socio-economic indicators to environmental health, we believe that user-friendly APIs are essential for humanitarian efforts, scientific progress, and policymaking.
 
 Data Artifex directly supports the [**High-Value Data Network**](https://www.highvaluedata.net) — our sister project and community platform advancing the discovery, access, and use of datasets that matter most.
 

@@ -1,4 +1,3 @@
-
 # Sponsorship Tiers
 
 ## current
@@ -43,7 +42,6 @@ $750 one time
 $1,000 one time
 **The Big Tip**: A major vote of confidence that fuels long-term maintenance and research. We’re genuinely grateful.
 
-
 ## version 1
 
 ### Monthly
@@ -66,10 +64,9 @@ Architect: Secure a weekly meeting of direct engineering, architectural guidance
 $5,000 a month
 Global Sustainer: Institutional-level partnership. Direct roadmap influence, priority anytime support, and high-profile recognition.
 
-
 ### One-Time
 
-10 one time
+$10 one time
 The Digital High-Five: A small but meaningful way to show your appreciation and fuel Data Artifex.
 
 $50 one time
