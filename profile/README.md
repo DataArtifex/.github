@@ -44,17 +44,17 @@ Collaborating with leading organizations, research communities, and data custodi
 | **Release Candidate / MVP** | *Relatively stable* |
 | [**dartfx-fairdataschema**](https://github.com/DataArtifex/dartfx-fairdataschema) ⚡ | Working with FAIR Data JSON Schemas and annotations |
 | [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) ⚡ | FAIR metadata proxy APIs |
-| [**dartfx-n8n**](https://github.com/DataArtifex/dartfx-n8n) ⚡ | n8n community nodes for FAIR data pipelines and automation |
+| [**dartfx-n8n-nodes-qsv**](https://github.com/DataArtifex/dartfx-n8n-nodes-qsv) ⚡ | n8n community nodes for datHere QSV tabular data wrangling |
 | [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | Universal Numeric Fingerprint (UNF) for data hashing |
-| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) ⚡ | Support and utilities for DDI-CDI and DDI-Codebook |
+| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) ⚡ | Dataverse catalog harvesting and exploration |
+| [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) ⚡ | Support and utilities for DDI-CDI, DDI-L, and DDI-Codebook |
+| [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) ⚡ | NADA (World Bank) catalogs harvester |
 | [**postman-api**](https://github.com/DataArtifex/postman-api) | Python client for Postman API integration |
 | [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | Core engine for RDF and Semantic Metadata |
 | **Beta / Prototypes** | *Functional for early adopters* |
 | [**ckan-toolkit**](https://github.com/DataArtifex/ckan-toolkit) | CKAN catalog harvesting and exploration |
-| [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) ⚡ | Dataverse catalog harvesting and exploration |
 | [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Support and utilities for DCAT |
 | [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) ⚡ | Integration with MTNA Rich Data Services platform |
-| [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) | NADA (World Bank) catalogs harvester |
 | [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Postman FAIR collection generation and utilities |
 | [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) ⚡ | Integration with datHere QSV data wrangling toolkit |
 | [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Integration with Socrata (Data Insights) platform |
