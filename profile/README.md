@@ -45,29 +45,32 @@ Collaborating with leading organizations, research communities, and data custodi
 | [**dartfx-fairdataschema**](https://github.com/DataArtifex/dartfx-fairdataschema) ⚡ | Working with FAIR Data JSON Schemas and annotations |
 | [**dartfx-fairproxy-api**](https://github.com/DataArtifex/dartfx-fairproxy-api) ⚡ | FAIR metadata proxy APIs |
 | [**dartfx-n8n-nodes-qsv**](https://github.com/DataArtifex/dartfx-n8n-nodes-qsv) ⚡ | n8n community nodes for datHere QSV tabular data wrangling |
-| [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) | Universal Numeric Fingerprint (UNF) for data hashing |
+| [**dartfx-unf**](https://github.com/DataArtifex/dartfx-unf) ⚡ | Universal Numeric Fingerprint (UNF) for data hashing |
 | [**dataverse-toolkit**](https://github.com/DataArtifex/dataverse-toolkit) ⚡ | Dataverse catalog harvesting and exploration |
 | [**ddi-toolkit**](https://github.com/DataArtifex/ddi-toolkit) ⚡ | Support and utilities for DDI-CDI, DDI-L, and DDI-Codebook |
 | [**nada-toolkit**](https://github.com/DataArtifex/nada-toolkit) ⚡ | NADA (World Bank) catalogs harvester |
-| [**postman-api**](https://github.com/DataArtifex/postman-api) | Python client for Postman API integration |
-| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) | Core engine for RDF and Semantic Metadata |
+| [**postman-api**](https://github.com/DataArtifex/postman-api) ⚡ | Python client for Postman API integration |
+| [**rdf-toolkit**](https://github.com/DataArtifex/rdf-toolkit) ⚡ | Core engine for RDF and Semantic Metadata |
 | **Beta / Prototypes** | *Functional for early adopters* |
-| [**ckan-toolkit**](https://github.com/DataArtifex/ckan-toolkit) | CKAN catalog harvesting and exploration |
-| [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) | Support and utilities for DCAT |
+| [**ckan-toolkit**](https://github.com/DataArtifex/ckan-toolkit) ⚡ | CKAN catalog harvesting and exploration |
+| [**dcat-toolkit**](https://github.com/DataArtifex/dcat-toolkit) ⚡ | Support and utilities for DCAT |
+| [**docker-api-base**](https://github.com/DataArtifex/docker-api-base) ⚡ | Base Docker image for FastAPI and Uvicorn services |
+| [**docker-base**](https://github.com/DataArtifex/docker-base) ⚡ | Core base Docker image with system utilities and Python environment |
+| [**docker-n8n**](https://github.com/DataArtifex/docker-n8n) ⚡ | Production-ready Docker stack for n8n with task runner and QSV toolkit |
 | [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) ⚡ | Integration with MTNA Rich Data Services platform |
-| [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) | Postman FAIR collection generation and utilities |
+| [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) ⚡ | Postman FAIR collection generation and utilities |
 | [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) ⚡ | Integration with datHere QSV data wrangling toolkit |
-| [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) | Integration with Socrata (Data Insights) platform |
+| [**socrata-toolkit**](https://github.com/DataArtifex/socrata-toolkit) ⚡ | Integration with Socrata (Data Insights) platform |
 | [**usbls-toolkit**](https://github.com/DataArtifex/usbls-toolkit) | Harvesting and FAIRification of U.S. Bureau of Labor Statistics time series raw data |
 | **Alpha / Experimental** | *Research and development* |
-| [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) | Command line shell for Data Artifex tools and packages |
+| [**dartfx-cli**](https://github.com/DataArtifex/dartfx-cli) ⚡ | Command line shell for Data Artifex tools and packages |
 | [**dartfx-sdc**](https://github.com/DataArtifex/dartfx-sdc) ⚡ | Statistical Disclosure Control (SDC) and privacy risk assessment |
-| [**dartfx-semanticdt**](https://github.com/DataArtifex/dartfx-semanticdt) | Semantic Data Types (SDT) modeling, validation, and documentation |
+| [**dartfx-semanticdt**](https://github.com/DataArtifex/dartfx-semanticdt) ⚡ | Semantic Data Types (SDT) modeling, validation, and documentation |
 | [**dartfx-synth**](https://github.com/DataArtifex/dartfx-synth) ⚡ | Synthetic data generation and privacy-preserving data synthesis |
-| [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) | Collection of utilities and shared resources |
-| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) | FAIR data workspace management |
+| [**dartfx-utils**](https://github.com/DataArtifex/dartfx-utils) ⚡ | Collection of utilities and shared resources |
+| [**dartfx-workspace**](https://github.com/DataArtifex/dartfx-workspace) ⚡ | FAIR data workspace management |
 | [**fair-data-machine**](https://github.com/DataArtifex/fair-data-machine) | A Docker image for data FAIRification tools and software |
-| [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) | Integration with US Census Bureau API and data products |
+| [**uscensus-toolkit**](https://github.com/DataArtifex/uscensus-toolkit) ⚡ | Integration with US Census Bureau API and data products |
 
 <small>*(⚡ indicates active development / updated in the last 3 months)*</small>
 
