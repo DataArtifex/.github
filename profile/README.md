@@ -57,6 +57,7 @@ Collaborating with leading organizations, research communities, and data custodi
 | [**docker-api-base**](https://github.com/DataArtifex/docker-api-base) ⚡ | Base Docker image for FastAPI and Uvicorn services |
 | [**docker-base**](https://github.com/DataArtifex/docker-base) ⚡ | Core base Docker image with system utilities and Python environment |
 | [**docker-n8n**](https://github.com/DataArtifex/docker-n8n) ⚡ | Production-ready Docker stack for n8n with task runner and QSV toolkit |
+| [**docker-qsv**](https://github.com/DataArtifex/docker-qsv) ⚡ | Multi-architecture Docker distribution of the QSV tabular data wrangling toolkit |
 | [**mtnards-toolkit**](https://github.com/DataArtifex/mtnards-toolkit) ⚡ | Integration with MTNA Rich Data Services platform |
 | [**postman-toolkit**](https://github.com/DataArtifex/postman-toolkit) ⚡ | Postman FAIR collection generation and utilities |
 | [**qsv-toolkit**](https://github.com/DataArtifex/qsv-toolkit) ⚡ | Integration with datHere QSV data wrangling toolkit |
